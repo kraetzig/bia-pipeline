@@ -100,7 +100,7 @@ function App() {
                   onToggle={toggleReminder}
                 />
               ) : (
-                "Feitooooo"
+                "Dalhê Grêmio!!!"
               )}
             </>
           )}
